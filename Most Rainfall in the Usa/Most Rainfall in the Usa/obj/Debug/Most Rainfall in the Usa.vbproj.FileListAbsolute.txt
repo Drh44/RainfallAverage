@@ -1,0 +1,12 @@
+C:\Users\New User\source\repos\Most Rainfall in the Usa\Most Rainfall in the Usa\bin\Debug\Most Rainfall in the Usa.exe.config
+C:\Users\New User\source\repos\Most Rainfall in the Usa\Most Rainfall in the Usa\bin\Debug\Most Rainfall in the Usa.exe
+C:\Users\New User\source\repos\Most Rainfall in the Usa\Most Rainfall in the Usa\bin\Debug\Most Rainfall in the Usa.pdb
+C:\Users\New User\source\repos\Most Rainfall in the Usa\Most Rainfall in the Usa\bin\Debug\Most Rainfall in the Usa.xml
+C:\Users\New User\source\repos\Most Rainfall in the Usa\Most Rainfall in the Usa\obj\Debug\Most Rainfall in the Usa.vbprojAssemblyReference.cache
+C:\Users\New User\source\repos\Most Rainfall in the Usa\Most Rainfall in the Usa\obj\Debug\Most_Rainfall_in_the_Usa.MostRainfall.resources
+C:\Users\New User\source\repos\Most Rainfall in the Usa\Most Rainfall in the Usa\obj\Debug\Most_Rainfall_in_the_Usa.Resources.resources
+C:\Users\New User\source\repos\Most Rainfall in the Usa\Most Rainfall in the Usa\obj\Debug\Most Rainfall in the Usa.vbproj.GenerateResource.cache
+C:\Users\New User\source\repos\Most Rainfall in the Usa\Most Rainfall in the Usa\obj\Debug\Most Rainfall in the Usa.vbproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\Most Rainfall in the Usa\Most Rainfall in the Usa\obj\Debug\Most Rainfall in the Usa.exe
+C:\Users\New User\source\repos\Most Rainfall in the Usa\Most Rainfall in the Usa\obj\Debug\Most Rainfall in the Usa.xml
+C:\Users\New User\source\repos\Most Rainfall in the Usa\Most Rainfall in the Usa\obj\Debug\Most Rainfall in the Usa.pdb
